@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1479047584 source:c:\users\beggag\desktop\hr\forritun\assignment3\stringset\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	"StringSet.h"
+
+1478462119 c:\users\beggag\desktop\hr\forritun\assignment3\stringset\include\stringset.h
+	<vector>
+	<string>
+
+1479047666 source:c:\users\beggag\desktop\hr\forritun\assignment3\stringset\src\stringset.cpp
+	"StringSet.h"
+
+1479047584 source:d:\hr - usb\haustönn 2016\forritun\assignment3\stringset\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	"StringSet.h"
+
+1478462119 d:\hr - usb\haustönn 2016\forritun\assignment3\stringset\include\stringset.h
+	<vector>
+	<string>
+
+1479047666 source:d:\hr - usb\haustönn 2016\forritun\assignment3\stringset\src\stringset.cpp
+	"StringSet.h"
+
